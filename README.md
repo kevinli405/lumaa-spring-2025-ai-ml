@@ -1,5 +1,11 @@
 # Movie Recommendation System
 
+## Name
+Kevin Li
+
+## Email
+kevinkli@seas.upenn.edu
+
 ## Overview
 This is a simple content-based movie recommendation system that uses TF-IDF to find the most similar movies based on user input keywords.
 
